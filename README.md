@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of itnt/flarum-uitab.** Not for installation: use [Packagist](https://packagist.org/packages/itnt/flarum-uitab) or the [upstream repository](https://github.com/Littlegolden/flarum-uitab).
 
-**0** versions archived · Latest: [`v0.4.2`](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.4.2) · License: `MIT` · Flarum: `^1.0`
+**16** versions archived · Latest: [`v0.4.2`](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.4.2) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.3.0` | 2021-01-10 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.3.0) |
+| `v0.1.1` | 2020-02-24 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.1.1) |
+| `v0.1.2` | 2020-02-24 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.1.2) |
+| `v0.1.3` | 2020-02-24 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.1.3) |
+| `v0.1.4` | 2020-02-24 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.1.4) |
+| `v0.1.5` | 2020-02-26 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.1.5) |
+| `v0.1.6` | 2020-02-29 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.1.6) |
+| `v0.1.7` | 2020-05-14 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.1.7) |
+| `v0.1.8` | 2020-05-14 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.1.8) |
+| `v0.2.0` | 2020-05-16 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/itnt-flarum-uitab/tree/archive/v0.2.0) |
+
+[View all 16 versions](https://github.com/flarchive/itnt-flarum-uitab/tags)
 
 Catalog entry: [packages/itnt-flarum-uitab.json](https://github.com/flarchive/archive-index/blob/main/packages/itnt-flarum-uitab.json)
 
